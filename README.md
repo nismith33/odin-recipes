@@ -1,0 +1,1 @@
+This is a first project in HTML. It is meant to show basic understanding of foundational concepts like links, lists, and general website structure. It will likely not look very pretty, but aesthetics are secondary in this project.
